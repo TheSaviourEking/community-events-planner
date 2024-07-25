@@ -39,7 +39,7 @@ Community Event Planner is a full-stack web application designed to facilitate t
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/community-event-planner.git
+git clone https://github.com/TheSaviourEking/community-event-planner.git
 
 cd community-event-planner
 ```
